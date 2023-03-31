@@ -13,11 +13,9 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Right click and click inspect to open DevTools and look at the code to see the sematic elements, alt attributes, order of code, and comments. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![Alt text](assets/images/screen-shot.png)
 
 ## Credits
 
